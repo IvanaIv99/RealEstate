@@ -28,15 +28,15 @@ There's no authentication enabled.
 
     - ##### JSON & Validation rules
 
-      	{
-      		"id_type" : // 1 (apartment) / 2 (house),
-      		"address": // Required, String
-      		"size" : // Required, Integer
-      		"bedrooms" : // Required, Integer
-      		"price" : // Required, Decimal
-      		"latitude" : // Required, Decimal between -90 and 90
-      		"longitude" : // Required, Decimal between -180 and 180*
-      	}
+    {
+      * "id_type" : // 1 (apartment) / 2 (house),
+      * "address": // Required, String
+      * "size" : // Required, Integer
+      * "bedrooms" : // Required, Integer
+      * "price" : // Required, Decimal
+      * "latitude" : // Required, Decimal between -90 and 90
+      * "longitude" : // Required, Decimal between -180 and 180
+    }
 
 
 

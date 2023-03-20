@@ -49,6 +49,8 @@ There's no authentication enabled.
 -  latitude : // Required, Decimal between -90 and 90
 - longitude : // Required, Decimal between -180 and 180
 
+///////////////////
+
 
 * **GET [ '/units' ] - Getting all units, includes searching them**
 
